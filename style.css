@@ -1,0 +1,122 @@
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+ 
+*container {  
+    width: 1080px;  
+    margin: 10px auto;  
+}  
+  
+  
+  
+#sidebar {  
+    float: left;  
+    width: 450px; 
+    border-spacing: 10px; 
+  
+}  
+ 
+ 
+  
+/* UDACITY MUG */  
+img {  
+    width: 390px;   
+    height: 450px;   
+    border-width: 2px;   
+    padding-bottom: 55px;   
+    padding-top: 25px; 
+    margin-left: 10px;         
+  
+}  
+  
+
+  
+/* box around mug features */  
+article {  
+    border-style: solid;  
+    border-color: #ccc;  
+    border-width: 2px;  
+    width: 376px; 
+    height: 225px; 
+    margin: 15px; 
+    margin-bottom: 20px; 
+    margin-top: 20px; 
+                                        
+}  
+  
+
+  
+/* list of how to use the mug */  
+li {  
+    font-color: #666;   
+    font-size: 1.15em; 
+    font-align: center; 
+    line-height: 2; 
+    margin-left: 30px;     
+     
+}  
+ 
+ 
+  
+/* title ORANGE UDACITY */  
+h1 {  
+    color: #666;   
+    background-color: white;   
+    font-size: 3.50em;   
+    margin: 10px;   
+    margin-top 25px;   
+    text-align: center;  
+    padding-top: 34px;  
+           
+}  
+  
+ 
+ 
+/* subtitles MAIN FEATURES */  
+h2 {  
+    color: #f07C17;         
+              
+}  
+ 
+ 
+ 
+ 
+/* subtitles A GOOD WAY TO START THE DAY */  
+subtitles { 
+    color: #f07C17;   
+    text-align: left;   
+  
+} 
+
+
+  
+/* text of page*/  
+#span2 {  
+     float: left;   
+     max-width: 465px;   
+     height: 400px;  
+     font-family: "lucinda grande", sans-serif;   
+     color: #666;   
+     background-color: white;   
+     font-size: 16px; 
+     line-height: 2.3em;  
+     margin-bottom: -25px; 
+     margin-left: -30px; 
+     padding-top: 10px;                  
+                     
+}  
+  
+p{ 
+    height: 100%; 
+     
+} 
+ 
+  
+/* blank */  
+#footer {  
+    clear:both; 
+    
+}
